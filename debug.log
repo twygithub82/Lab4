@@ -1,0 +1,68 @@
+[0316/163300.162:WARNING:resource_bundle.cc(357)] locale_file_path.empty() for locale 
+[0316/163300.165:ERROR:main_delegate.cc(781)] Could not load locale pak for en-US
+[0316/163300.259:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163300.263:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163300.263:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163300.265:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163300.265:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163300.265:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163300.265:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163300.267:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163300.267:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163300.267:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163300.267:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163300.267:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163300.267:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163300.267:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163300.268:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163300.268:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163300.268:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163300.268:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163300.268:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163300.268:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163300.268:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163300.268:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163300.268:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163300.268:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163300.268:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163300.268:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163300.268:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163300.268:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163300.268:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163300.268:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163300.268:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163300.268:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163300.268:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163300.268:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163300.268:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163300.268:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163300.268:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163300.268:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163300.268:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163300.268:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163300.270:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163300.270:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163300.270:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163300.270:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163301.982:WARNING:resource_bundle.cc(357)] locale_file_path.empty() for locale 
+[0316/163301.982:ERROR:main_delegate.cc(781)] Could not load locale pak for en-US
+[0316/163304.880:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163304.880:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0316/163304.952:WARNING:resource_bundle.cc(357)] locale_file_path.empty() for locale 
+[0316/163304.952:ERROR:main_delegate.cc(781)] Could not load locale pak for en-US
+[0316/163305.910:ERROR:ssl_client_socket_impl.cc(962)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0316/163305.952:ERROR:ssl_client_socket_impl.cc(962)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0316/163305.952:ERROR:ssl_client_socket_impl.cc(962)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0316/163305.953:ERROR:ssl_client_socket_impl.cc(962)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0316/163305.954:ERROR:ssl_client_socket_impl.cc(962)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0316/163305.954:ERROR:ssl_client_socket_impl.cc(962)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0316/163305.958:ERROR:ssl_client_socket_impl.cc(962)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0316/163305.958:ERROR:ssl_client_socket_impl.cc(962)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0316/163305.959:ERROR:ssl_client_socket_impl.cc(962)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0316/163305.959:ERROR:ssl_client_socket_impl.cc(962)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0316/163305.960:ERROR:ssl_client_socket_impl.cc(962)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0316/163306.464:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://127.0.0.1:49404/login/passphrase?passphrase=2cb55abe-72d1-4d69-9782-a5fd8b7a455b (0)
+[0316/163306.484:ERROR:ssl_client_socket_impl.cc(962)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0316/163306.533:ERROR:ssl_client_socket_impl.cc(962)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0316/163315.308:WARNING:resource_bundle.cc(357)] locale_file_path.empty() for locale 
+[0316/163315.308:ERROR:main_delegate.cc(781)] Could not load locale pak for en-US
